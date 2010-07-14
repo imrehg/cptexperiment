@@ -1,0 +1,10 @@
+*~
+*.bak
+*.aux
+*.bbl
+*.blg
+*.dvi
+*.log
+*.out
+*.pdf
+*.eps
